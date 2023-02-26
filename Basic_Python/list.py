@@ -1,0 +1,15 @@
+list=['apple','preeti','pen',45,False]
+print(list)
+print(list[0])
+print(list[3])
+number=[5,9,4,6,2,1,8]
+print(number)
+print(number[2]);
+number.sort()
+number.reverse();
+print(number)
+print(number[1:6]);
+print(min(number))
+print(max(number));
+number.append(3)
+print(number)
